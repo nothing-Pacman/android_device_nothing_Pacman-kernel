@@ -76,6 +76,7 @@ rt4831a_drv.ko
 mtk_panel_ext.ko
 panel-vnx-rm692h5-cmd.ko
 panel-boe-rm692h5-cmd.ko
+panel-boe-raydium-rm692h5-cmd.ko
 mediatek-drm.ko
 aee_rs.ko
 mmprofile.ko
