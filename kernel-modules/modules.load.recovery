@@ -116,7 +116,6 @@ mtk-pmic-keys.ko
 mtk-kpd.ko
 regulator-vibrator.ko
 i2c-mt65xx.ko
-mtk_dramc.ko
 clk-dbg-mt6886.ko
 spi-mt65xx.ko
 mt6375.ko
